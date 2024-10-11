@@ -1,0 +1,7 @@
+boto3
+boto3-stubs[sns]
+coverage
+ipdb
+jsonschema
+moto
+pytest
